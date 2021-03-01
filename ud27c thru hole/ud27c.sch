@@ -349,7 +349,7 @@ U 1 1 5A701F4D
 P 2850 3800
 F 0 "C10" H 2875 3900 50  0000 L CNN
 F 1 "1 uF" H 2875 3700 50  0000 L CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 2888 3650 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm" H 2888 3650 50  0001 C CNN
 F 3 "" H 2850 3800 50  0001 C CNN
 	1    2850 3800
 	-1   0    0    1   
@@ -1358,13 +1358,13 @@ $EndComp
 $Comp
 L ud27c-rescue:Conn_01x02 J8
 U 1 1 5A7ADDDC
-P 10350 3200
-F 0 "J8" H 10350 3300 50  0000 C CNN
-F 1 "GDT" H 10350 3000 50  0000 C CNN
-F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 10350 3200 50  0001 C CNN
-F 3 "" H 10350 3200 50  0001 C CNN
-	1    10350 3200
-	1    0    0    1   
+P 10400 3100
+F 0 "J8" H 10400 3200 50  0000 C CNN
+F 1 "GDT" H 10400 2900 50  0000 C CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 10400 3100 50  0001 C CNN
+F 3 "" H 10400 3100 50  0001 C CNN
+	1    10400 3100
+	1    0    0    -1  
 $EndComp
 $Comp
 L ud27c-rescue:MC34164 U15
@@ -2464,7 +2464,7 @@ Wire Wire Line
 	10050 2300 10050 2400
 Connection ~ 9900 2300
 Wire Wire Line
-	10050 3100 10150 3100
+	10050 3100 10200 3100
 Wire Wire Line
 	8000 4100 7050 4100
 Wire Wire Line
