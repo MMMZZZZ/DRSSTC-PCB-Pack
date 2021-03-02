@@ -1,4 +1,4 @@
-update=01.03.2021 20:05:05
+update=02.03.2021 10:39:06
 version=1
 last_client=kicad
 [cvpcb]
@@ -41,8 +41,8 @@ TrackWidth3=0.5
 TrackWidth4=1
 TrackWidth5=1.5
 TrackWidth6=2
-ViaDiameter1=0.6
-ViaDrill1=0.4
+ViaDiameter1=1.6
+ViaDrill1=0.8
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
@@ -69,7 +69,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.2
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
@@ -241,8 +241,8 @@ Enabled=0
 Name=Default
 Clearance=0.2
 TrackWidth=0.25
-ViaDiameter=0.6
-ViaDrill=0.4
+ViaDiameter=1.6
+ViaDrill=0.8
 uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.2

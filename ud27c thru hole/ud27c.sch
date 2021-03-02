@@ -19,7 +19,7 @@ U 1 1 5A6FCC18
 P 700 1500
 F 0 "J2" H 700 1600 50  0000 C CNN
 F 1 "24VAC" H 700 1300 50  0000 C CNN
-F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 700 1500 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 700 1500 50  0001 C CNN
 F 3 "" H 700 1500 50  0001 C CNN
 	1    700  1500
 	-1   0    0    1   
@@ -206,7 +206,7 @@ U 1 1 5A6FE6B9
 P 700 750
 F 0 "J1" H 700 850 50  0000 C CNN
 F 1 "+24V-" H 700 550 50  0000 C CNN
-F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 700 750 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 700 750 50  0001 C CNN
 F 3 "" H 700 750 50  0001 C CNN
 	1    700  750 
 	-1   0    0    -1  
@@ -250,7 +250,7 @@ U 1 1 5A70045E
 P 650 3000
 F 0 "J3" H 650 3100 50  0000 C CNN
 F 1 "FB-CT" H 650 2800 50  0000 C CNN
-F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 650 3000 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 650 3000 50  0001 C CNN
 F 3 "" H 650 3000 50  0001 C CNN
 	1    650  3000
 	-1   0    0    -1  
@@ -481,7 +481,7 @@ U 1 1 5A703F24
 P 650 3400
 F 0 "J4" H 650 3500 50  0000 C CNN
 F 1 "FB-IND" H 650 3200 50  0000 C CNN
-F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 650 3400 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 650 3400 50  0001 C CNN
 F 3 "" H 650 3400 50  0001 C CNN
 	1    650  3400
 	-1   0    0    -1  
@@ -500,12 +500,12 @@ $EndComp
 $Comp
 L ud27c-rescue:74LS08 U5
 U 3 1 5A701CA1
-P 5250 3450
-F 0 "U5" H 5250 3500 50  0000 C CNN
-F 1 "74HC08" H 5250 3400 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 5250 3450 50  0001 C CNN
-F 3 "" H 5250 3450 50  0001 C CNN
-	3    5250 3450
+P 5200 2650
+F 0 "U5" H 5200 2700 50  0000 C CNN
+F 1 "74HC08" H 5200 2600 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 5200 2650 50  0001 C CNN
+F 3 "" H 5200 2650 50  0001 C CNN
+	3    5200 2650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -533,12 +533,12 @@ $EndComp
 $Comp
 L ud27c-rescue:74LS08 U5
 U 2 1 5A702F0E
-P 5200 2650
-F 0 "U5" H 5200 2700 50  0000 C CNN
-F 1 "74HC08" H 5200 2600 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 5200 2650 50  0001 C CNN
-F 3 "" H 5200 2650 50  0001 C CNN
-	2    5200 2650
+P 4700 5550
+F 0 "U5" H 4700 5600 50  0000 C CNN
+F 1 "74HC08" H 4700 5500 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 4700 5550 50  0001 C CNN
+F 3 "" H 4700 5550 50  0001 C CNN
+	2    4700 5550
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -690,7 +690,7 @@ U 1 1 5A70CC9C
 P 800 7050
 F 0 "J5" H 800 7150 50  0000 C CNN
 F 1 "OCD-CT" H 800 6850 50  0000 C CNN
-F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 800 7050 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 800 7050 50  0001 C CNN
 F 3 "" H 800 7050 50  0001 C CNN
 	1    800  7050
 	-1   0    0    -1  
@@ -918,12 +918,12 @@ $EndComp
 $Comp
 L ud27c-rescue:74LS74 U7
 U 1 1 5A70EDBB
-P 5300 4450
-F 0 "U7" H 5450 4750 50  0000 C CNN
-F 1 "74HC74" H 5600 4155 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 5300 4450 50  0001 C CNN
-F 3 "" H 5300 4450 50  0001 C CNN
-	1    5300 4450
+P 4550 6550
+F 0 "U7" H 4700 6850 50  0000 C CNN
+F 1 "74HC74" H 4850 6255 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 4550 6550 50  0001 C CNN
+F 3 "" H 4550 6550 50  0001 C CNN
+	1    4550 6550
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1028,12 +1028,12 @@ $EndComp
 $Comp
 L ud27c-rescue:74LS74 U7
 U 2 1 5A71B431
-P 4550 6550
-F 0 "U7" H 4700 6850 50  0000 C CNN
-F 1 "74HC74" H 4850 6255 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 4550 6550 50  0001 C CNN
-F 3 "" H 4550 6550 50  0001 C CNN
-	2    4550 6550
+P 5300 4450
+F 0 "U7" H 5450 4750 50  0000 C CNN
+F 1 "74HC74" H 5600 4155 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 5300 4450 50  0001 C CNN
+F 3 "" H 5300 4450 50  0001 C CNN
+	2    5300 4450
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1061,12 +1061,12 @@ $EndComp
 $Comp
 L ud27c-rescue:74LS08 U5
 U 4 1 5A720274
-P 4700 5550
-F 0 "U5" H 4700 5600 50  0000 C CNN
-F 1 "74HC08" H 4700 5500 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 4700 5550 50  0001 C CNN
-F 3 "" H 4700 5550 50  0001 C CNN
-	4    4700 5550
+P 5250 3450
+F 0 "U5" H 5250 3500 50  0000 C CNN
+F 1 "74HC08" H 5250 3400 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 5250 3450 50  0001 C CNN
+F 3 "" H 5250 3450 50  0001 C CNN
+	4    5250 3450
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1083,12 +1083,12 @@ $EndComp
 $Comp
 L ud27c-rescue:74LS04 U8
 U 6 1 5A72D65E
-P 2500 4800
-F 0 "U8" H 2695 4915 50  0000 C CNN
-F 1 "74HC14" H 2690 4675 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 2500 4800 50  0001 C CNN
-F 3 "" H 2500 4800 50  0001 C CNN
-	6    2500 4800
+P 5950 5550
+F 0 "U8" H 6145 5665 50  0000 C CNN
+F 1 "74HC14" H 6140 5425 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 5950 5550 50  0001 C CNN
+F 3 "" H 5950 5550 50  0001 C CNN
+	6    5950 5550
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1138,23 +1138,23 @@ $EndComp
 $Comp
 L ud27c-rescue:74LS04 U8
 U 4 1 5A72EBD4
-P 5950 5550
-F 0 "U8" H 6145 5665 50  0000 C CNN
-F 1 "74HC14" H 6140 5425 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 5950 5550 50  0001 C CNN
-F 3 "" H 5950 5550 50  0001 C CNN
-	4    5950 5550
-	1    0    0    -1  
-$EndComp
-$Comp
-L ud27c-rescue:74LS04 U8
-U 5 1 5A72ECF4
 P 7500 5550
 F 0 "U8" H 7695 5665 50  0000 C CNN
 F 1 "74HC14" H 7690 5425 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 7500 5550 50  0001 C CNN
 F 3 "" H 7500 5550 50  0001 C CNN
-	5    7500 5550
+	4    7500 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ud27c-rescue:74LS04 U8
+U 5 1 5A72ECF4
+P 9400 4700
+F 0 "U8" H 9595 4815 50  0000 C CNN
+F 1 "74HC14" H 9590 4575 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 9400 4700 50  0001 C CNN
+F 3 "" H 9400 4700 50  0001 C CNN
+	5    9400 4700
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1361,7 +1361,7 @@ U 1 1 5A7ADDDC
 P 10400 3100
 F 0 "J8" H 10400 3200 50  0000 C CNN
 F 1 "GDT" H 10400 2900 50  0000 C CNN
-F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 10400 3100 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 10400 3100 50  0001 C CNN
 F 3 "" H 10400 3100 50  0001 C CNN
 	1    10400 3100
 	1    0    0    -1  
@@ -1446,12 +1446,12 @@ $EndComp
 $Comp
 L ud27c-rescue:74LS04 U8
 U 3 1 5A739CB2
-P 9400 4700
-F 0 "U8" H 9595 4815 50  0000 C CNN
-F 1 "74HC14" H 9590 4575 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 9400 4700 50  0001 C CNN
-F 3 "" H 9400 4700 50  0001 C CNN
-	3    9400 4700
+P 2500 4800
+F 0 "U8" H 2695 4915 50  0000 C CNN
+F 1 "74HC14" H 2690 4675 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 2500 4800 50  0001 C CNN
+F 3 "" H 2500 4800 50  0001 C CNN
+	3    2500 4800
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2315,9 +2315,7 @@ Wire Wire Line
 Wire Wire Line
 	3950 7000 3950 7200
 Wire Wire Line
-	4100 5650 4100 6150
-Wire Wire Line
-	4100 6150 5150 6150
+	4050 5650 4050 6150
 Wire Wire Line
 	5150 6150 5150 6350
 Wire Wire Line
@@ -2348,7 +2346,6 @@ Wire Wire Line
 Connection ~ 1700 6000
 Wire Wire Line
 	3850 5450 4100 5450
-Connection ~ 3850 5450
 Wire Wire Line
 	6900 5550 6950 5550
 Wire Wire Line
@@ -2427,25 +2424,17 @@ Connection ~ 7100 3100
 Wire Wire Line
 	5900 3100 6050 3100
 Wire Wire Line
-	5900 2550 5900 2650
-Connection ~ 5900 2650
-Wire Wire Line
 	6550 2900 6650 2900
 Wire Wire Line
 	6650 2900 6650 2550
 Wire Wire Line
 	6650 2550 5900 2550
 Wire Wire Line
-	5850 3450 5950 3450
-Wire Wire Line
 	6750 3450 6750 3100
-Wire Wire Line
-	5800 2650 5900 2650
 Wire Wire Line
 	6050 2900 5950 2900
 Wire Wire Line
 	5950 2900 5950 3450
-Connection ~ 5950 3450
 Wire Wire Line
 	8350 2550 8500 2550
 Wire Wire Line
@@ -2599,7 +2588,7 @@ Connection ~ 6750 4700
 Wire Wire Line
 	6100 7250 6100 6500
 Wire Wire Line
-	6100 6500 8050 6500
+	6100 6500 6500 6500
 Wire Wire Line
 	8050 6500 8050 4300
 Wire Wire Line
@@ -2816,11 +2805,7 @@ Wire Wire Line
 Wire Wire Line
 	1850 4800 2050 4800
 Wire Wire Line
-	3850 5300 3850 5450
-Wire Wire Line
 	1700 6000 1800 6000
-Wire Wire Line
-	3850 5450 3850 6550
 Wire Wire Line
 	6500 5550 6600 5550
 Wire Wire Line
@@ -2837,8 +2822,6 @@ Wire Wire Line
 	4450 7100 4550 7100
 Wire Wire Line
 	7100 3100 7100 3250
-Wire Wire Line
-	5900 2650 5900 3100
 Wire Wire Line
 	5950 3450 6750 3450
 Wire Wire Line
@@ -2869,8 +2852,6 @@ Wire Wire Line
 	3150 3000 3250 3000
 Wire Wire Line
 	8450 2400 8450 2250
-Wire Wire Line
-	9400 5150 9400 5250
 Wire Wire Line
 	6750 4700 6300 4700
 Wire Wire Line
@@ -3011,4 +2992,34 @@ F 3 "~" H 10200 6500 50  0001 C CNN
 	1    10200 6500
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	5900 2550 5900 2650
+Wire Wire Line
+	5850 3450 5950 3450
+Wire Wire Line
+	5950 2900 5950 2650
+Connection ~ 5950 2900
+Wire Wire Line
+	4050 6150 5150 6150
+Wire Wire Line
+	4050 5650 4100 5650
+Connection ~ 5950 3450
+Wire Wire Line
+	5800 2650 5900 2650
+Connection ~ 5900 2650
+Wire Wire Line
+	5900 2650 5900 3100
+Wire Wire Line
+	9400 5150 9400 5250
+Wire Wire Line
+	3850 5300 3850 5450
+Connection ~ 3850 5450
+Wire Wire Line
+	3850 5450 3850 6550
+Connection ~ 6500 6500
+Wire Wire Line
+	6500 6500 7650 6500
+Connection ~ 7650 6500
+Wire Wire Line
+	7650 6500 8050 6500
 $EndSCHEMATC
