@@ -1,3 +1,5 @@
+I created a [new version of the UD2.7 THT](/ud27c%20thru%20hole#readme). No other changes, so here's the original readme:
+
 Dual Resonant Solid State Tesla Coil and Solid State Tesla Coil PCB pack.
 Copyright (C) 2018 by Daniel L. Marks, licensed under the Created Commons CC-BY-SA 4.0.
 
