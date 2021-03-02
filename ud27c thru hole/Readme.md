@@ -15,7 +15,7 @@ Features:
 * All testpoints are on the edge of the PCB. 
 * All terminals, jumpers and tespoints are labeled. DC In and testpoints have the pinout marked as well.
 * PCB size: 99mm x 99mm
-* [Interactive BOM](https://github.com/MMMZZZZ/DRSSTC-PCB-Pack/blob/master/ud27c%20thru%20hole/bom/ud27c%20Interactive%20BOM.html?raw=true). A HTML document that allows you to visualize what part sits where. Great help during assembly! It allows highlighting nets, too, which is very useful for debugging.
+* [Interactive BOM](http://htmlpreview.github.io/?https://github.com/MMMZZZZ/DRSSTC-PCB-Pack/blob/master/ud27c%20thru%20hole/bom/ud27c%20Interactive%20BOM.html). An HTML document that allows you to visualize what part sits where. Great help during assembly! It allows highlighting nets, too, which is very useful for debugging. If you want to use it offline, right click and save as on the following link: [Interactive BOM, raw file](https://github.com/MMMZZZZ/DRSSTC-PCB-Pack/raw/master/ud27c%20thru%20hole/bom/ud27c%20Interactive%20BOM.html).
 
 ## Preview
 
